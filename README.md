@@ -26,10 +26,8 @@ SO THAT I have quick access to their emails and GitHub profiles
 ---
  
 * Github URL: 
-https://github.com/derekson333/dans-planner
+https://github.com/derekson333/dans-team-profile-gen
 
-* Github Deployed Page: 
-https://derekson333.github.io/dans-planner/
 
 ---
 
